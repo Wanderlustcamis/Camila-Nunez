@@ -42,14 +42,14 @@ h2 {
   margin: 4px;
   text-align: center;
   padding: 9px;
-  color: #F1F2EB;
+  color: colortres;
 }
 
 h3 {
   font-size: 20px;
   margin: 2px;
   padding: 2px;
-  color: #5B2E48;
+  color: colordos;
 }
 
 h4 {
@@ -81,5 +81,5 @@ section {
   display: inline-flex;
   flex-flow: row;
   justify-content: space-around;
-  color: #CEBBC9;
+  color: coloruno;
 }
