@@ -38,13 +38,16 @@ p {
   padding: 5px;
   color: #5B2E48;
 }
+p .dates {
+  color: #F1F2EB;
+}
 
 h2 {
   text-decoration: none;
   font-size: 23px;
-  margin: 4px;
+  margin: 2px;
   text-align: center;
-  padding: 9px;
+  padding: 2px;
   color: #566246;
 }
 
@@ -56,8 +59,10 @@ h3 {
 }
 
 h4 {
-  margin: 6px;
-  padding: 0px;
+  margin: 4px;
+  padding: 2px;
+  font-size: 16px;
+  color: #566246;
 }
 
 header {
