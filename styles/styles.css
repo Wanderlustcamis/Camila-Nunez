@@ -26,12 +26,15 @@ footer {
   margin: 20px;
   text-align: center;
 }
-footer .skills {
-  display: block;
+
+span {
+  align-self: center;
+  display: inline-block;
   border-color: #A4C2A5;
-  margin: 1000px;
+  margin: 40px;
   padding: 20px;
-  width: 900px;
+  width: 1121.5px;
+  color: #F1F2EB;
 }
 
 h1 {
@@ -95,6 +98,10 @@ header {
 ul {
   list-style: none;
   color: #F1F2EB;
+  align-items: center;
+}
+ul ul.Skills {
+  color: #101935;
   align-items: center;
 }
 
